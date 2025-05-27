@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      oranzhevy_0: 8275090964983609424
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

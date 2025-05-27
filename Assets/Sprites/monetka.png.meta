@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      monetka_0: -8938164507642797124
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -373,7 +373,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Quick Buy_0: -2305812147786940156
+      Quick Buy_1: -4488725608417047563
+      Quick Buy_2: 5123100585279432220
+      Quick Buy_3: 4713481707532598648
+      Quick Buy_4: 6447931202101934539
+      Quick Buy_5: -4027986099861120156
+      Quick Buy_6: -8598781847588481822
+      Quick Buy_7: -6460884055607210118
+      Quick Buy_8: 2686663791052723956
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

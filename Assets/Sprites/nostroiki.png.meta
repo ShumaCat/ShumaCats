@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      nostroiki_0: 4494124998947908914
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
